@@ -65,7 +65,7 @@ const Hero = () => {
         <div className="flex flex-col text-white absolute top-20 left-10 ">
           <h1 className="hero-heading">Redefine</h1>
           <p className="text-gray-300 text-xl font-semibold">Enter the Metagame Layer <br></br>Unleash the Play Economy</p>
-          <Button title={"Watch Trailer"} id={"trailer"} containerClass={"bg-yellow-300 mt-2 p-2"}/>
+          <Button title={"Watch Trailer"} id={"trailer"} containerClass={"bg-yellow-300 mt-2 px-2"}/>
         </div>
       </div>
     </div>
